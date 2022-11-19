@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Paket
-comment1.params=pGewicht\ pBarcode
-comment1.target=Paket(double,\ java.lang.String)
-comment2.params=
-comment2.target=double\ gibGewicht()
-comment3.params=
-comment3.target=java.lang.String\ gibBarcode()
-numComments=4
